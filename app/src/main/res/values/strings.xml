@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Intercambistas</string>
+    <string name="activity_tela_cadastro_usuario">Insira um nome de usuário:</string>
+    <string name="activity_tela_cadastro_senha">Cadastre sua senha:</string>
+    <string name="activity_tela_cadastro_email">Digite seu e-mail::</string>
+    <string name="activity_tela_cadastro_curso">Escolha seu curso:</string>
+</resources>
